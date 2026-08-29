@@ -1,0 +1,12 @@
+Line 14: Class MSComDlg.CommonDialog of control printdia was not a loaded control class.
+Line 48: Class MSFlexGridLib.MSFlexGrid of control PURDIRgrid was not a loaded control class.
+Line 17: The property name _ExtentX in printdia is invalid.
+Line 18: The property name _ExtentY in printdia is invalid.
+Line 19: The property name _Version in printdia is invalid.
+Line 54: The property name _ExtentX in PURDIRgrid is invalid.
+Line 55: The property name _ExtentY in PURDIRgrid is invalid.
+Line 56: The property name _Version in PURDIRgrid is invalid.
+Line 57: The property name Rows in PURDIRgrid is invalid.
+Line 58: The property name Cols in PURDIRgrid is invalid.
+Line 59: The property name FixedRows in PURDIRgrid is invalid.
+Line 60: The property name FixedCols in PURDIRgrid is invalid.

@@ -1,0 +1,8 @@
+Line 29: Class MSFlexGridLib.MSFlexGrid of control holdgrid was not a loaded control class.
+Line 35: The property name _ExtentX in holdgrid is invalid.
+Line 36: The property name _ExtentY in holdgrid is invalid.
+Line 37: The property name _Version in holdgrid is invalid.
+Line 38: The property name Rows in holdgrid is invalid.
+Line 39: The property name Cols in holdgrid is invalid.
+Line 40: The property name FixedRows in holdgrid is invalid.
+Line 41: The property name FixedCols in holdgrid is invalid.
